@@ -7,7 +7,6 @@ import store from './redux/store'
 
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 
 ReactDOM.render(
